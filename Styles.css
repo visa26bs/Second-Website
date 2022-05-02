@@ -1,0 +1,130 @@
+body {
+background-color: #CAF0F8;
+text-align: center;
+font-family: 'Sacramento', cursive;}
+
+h1 {margin:50px auto 2px auto;
+font-size: 90px;
+color: #66BFBF;}
+
+h2 {font-family: 'Indie Flower', cursive;
+font-size: 50px;
+color: #66BFBF;}
+
+h3 {font-family: 'Shizuru', cursive;
+font-size: 40px;
+color: #11999E;}
+
+p {font-size: 40px}
+
+.top-container {
+position: relative;
+padding-top: 100px;
+}
+
+.bottom-container{
+  padding-top: 50px;
+  background-color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+.top-cloud{
+   position: absolute;
+   right: 300px;
+   top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+   left: 300px;
+   bottom: 300px;
+ }
+
+.Selfie {
+  height: 250px;
+  width: 250px;
+}
+
+.PH {
+  height: 25%;
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.karaoke {
+  height: 25%;
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+
+.skill-row {
+  margin: auto;
+  width: 50%;
+  text-align: left;
+}
+
+.profile{
+  margin: auto;
+  width: 50%
+}
+
+.ME{
+  color: #40514E
+}
+
+.line{
+  color: #EAF6F6
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+  .btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Indie Flower', cursive;
+  color: #faf2fa;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.footerlink {
+  color: #11999E
+  position: inline-block;
+}
+
+.FL{
+  color: #EAF6F6;
+}
+
+a{
+  color: #005555;
+  font-size:20px;
+  font-family: 'Indie Flower', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover
+{color: #EAF6F6}
